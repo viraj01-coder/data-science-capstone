@@ -1,0 +1,14 @@
+Flight No.,Launch site,Payload,Payload mass,Orbit,Customer,Launch outcome,Version Booster,Booster landing,Date,Time
+1,"CCAFS,SLC-40",Dragon Spacecraft Qualification Unit,0,LEO,SpaceX,"Success
+",F9 v1.07B0003.18,Failure,4 June 2010,18:45
+2,"CCAFS,SLC-40",Dragon demo flight C1(Dragon C101),0,LEO (ISS),"NASA (COTS)
+NRO",Success,F9 v1.07B0004.18,Failure,8 December 2010,15:43
+3,"CCAFS,SLC-40",Dragon demo flight C2+[18](Dragon C102),525 kg,LEO (ISS),NASA (COTS),Success,F9 v1.07B0005.18,"No attempt
+",22 May 2012,07:44
+4,"CCAFS,SLC-40",SpaceX CRS-1[22](Dragon C103),"4,700 kg",LEO (ISS),NASA (CRS),"Success
+",F9 v1.07B0006.18,No attempt,8 October 2012,00:35
+5,"CCAFS,SLC-40",SpaceX CRS-2[22](Dragon C104),"4,877 kg",LEO (ISS),NASA (CRS),"Success
+",F9 v1.07B0007.18,"No attempt
+",1 March 2013,15:10
+6,"VAFB,SLC-4E",CASSIOPE[22][31],500 kg,Polar orbit LEO,MDA,Success,F9 v1.17B10038,Uncontrolled,29 September 2013,16:00
+7,"CCAFS,SLC-40",SES-8[22][35][36],"3,170 kg",GTO,SES,Success,,No attempt,3 December 2013,22:41
